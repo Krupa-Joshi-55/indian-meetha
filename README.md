@@ -3,7 +3,7 @@ My second git repository is a creative endeavor utilizing HTML, CSS, and JS. The
  <br>
  <br>
  <br>
- <img src="Meetha1.png">
+ <img src="Meetha2.png">
  <br>
  <br>
  <br>
@@ -11,7 +11,7 @@ My second git repository is a creative endeavor utilizing HTML, CSS, and JS. The
  <br>
  <br>
  <br>
- <img src="Meetha2.png">
+ <img src="Meetha1.png">
  <br>
  <br>
  <br>
